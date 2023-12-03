@@ -1,0 +1,13 @@
+{
+  "setupTasks": [],
+  "tasks": {
+    "run": {
+      "name": "run",
+      "command": "python3 ./main.py",
+      "runAtStart": true,
+      "preview": {
+        "port": 8080
+      }
+    }
+  }
+}
